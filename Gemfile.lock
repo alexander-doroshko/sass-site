@@ -129,7 +129,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.12.1)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.2)
     rack (1.6.11)
     rack-conditional (0.3.1)
       rack (>= 1.6.11)
